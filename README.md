@@ -9,3 +9,5 @@ Entry keys can be resolved to multiple LangIds, though the "correct" entries are
 The reasons being that "technically correct" entries can mask the actual LangId when found, and that having the proper LangId assists in
 pattern finding for future entries. These reasons aside, the "technically correct" entries seem to work fine when used in game with
 TppUiCommand.AnnounceLogViewLangId().
+
+#### 45% of hashes resolved
