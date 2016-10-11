@@ -890,6 +890,7 @@ be_revenue_S
 before_p21_010370
 big_play_skill_action_icon
 BINO
+bino_angle
 BINO_MARKING
 bino_mic
 Bino_PadMask
@@ -2442,8 +2443,10 @@ hud_10
 HUD_DECIDE
 hud_fob_abort
 hud_fob_defense
+hud_fob_finish
 hud_fob_rival_approach
 hud_fob_rival_name
+hud_fob_start
 hud_photo_cihld
 hud_photo_convoy
 hud_photo_dealer
@@ -3424,7 +3427,6 @@ MB_MAP
 MB_MAP_BG
 MB_MAP_HIGH
 MB_MAP_ICON
-mb_marker_have
 MB_MENU_HIGH
 MB_MENU_LOW
 MB_MENU_MIDDLE
