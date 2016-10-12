@@ -307,8 +307,6 @@ act_Yutaro_Honjo
 action_icon_civet_tpp
 action_type_frame_trial_display
 action_type_overall_driver
-activate_map_fast
-active_defeat
 added_air
 advice_completion_live
 afgh_bridge
@@ -476,7 +474,6 @@ announce_collection_enemy
 announce_collection_hostage
 announce_Complete
 announce_cross_medal
-announce_ddog_a_press
 announce_ddog_closeness_down
 announce_ddog_closeness_down2
 announce_ddog_died
@@ -575,11 +572,13 @@ announce_extract_boy
 announce_extract_corpse
 announce_extract_em_string
 announce_extract_keyitem
+announce_extract_max_rank
 announce_extract_mortar
 announce_extract_plant
 announce_extract_prisoner
 announce_extract_processed_res
 announce_extract_puppy
+announce_extract_skull_fog
 announce_extract_soldier
 announce_extract_staff
 announce_extract_tank
@@ -635,6 +634,7 @@ announce_fob1
 announce_fob2
 announce_fob3
 announce_fob4
+announce_get_ammo_type
 announce_get_blueprint
 announce_get_diamond
 announce_get_film_case
@@ -735,9 +735,11 @@ announce_quiet_dying
 announce_quiet_escape
 announce_quiet_move_start
 announce_quiet_move_stop
+announce_quiet_no_aiming
 announce_quiet_recovery
 announce_quiet_request
 announce_quiet_sneaking
+announce_quiet_snipe_point
 announce_record_num
 announce_recover_tank1
 announce_recover_tank2
@@ -781,6 +783,7 @@ announce_staff_liberation
 announce_staff_morale_down
 announce_staff_morale_up
 announce_staff_num
+announce_staff_poor_environment
 announce_staff_skill
 announce_staff_to_brig
 announce_start_eliminateParasite
@@ -790,6 +793,7 @@ announce_supplies_drop
 announce_supply_item
 announce_support_callboddy_received
 announce_support_callheli_received
+announce_support_request_received
 announce_target_destroy
 announce_target_died
 announce_target_dying
@@ -868,7 +872,6 @@ area_remnants
 area_ruinsNorth_none
 area_sp_walkergear
 armor_pilot_anti
-armored_vehicle_unit_nameplate_attacking
 armored_vehicle_unit_ocelot_e_vehicle_tank
 arrived_rescue_carrying_as_disguise
 assingment_accurancy_contract
@@ -883,7 +886,6 @@ bananaEast
 bananaSouth
 base_shower_ishmel
 basics_gas_mine_hanging
-battle_gear_ene_requirements
 battle_gear_smoke_containers
 battle_should_AWOL
 be_revenue_S
@@ -923,13 +925,11 @@ bridge_S
 bridge_speed_kyoten
 bridgeNorth
 bridgeWest
-by_listening_mission_list
 C4_eye_slant_document
 callbuddy_shotgun_rasp
 camera_speed_codetalker_em_string
 canister_support_helicopter_name2
 cap_grouping_train
-cap_unit_hint
 capture_cage_bridge_supplies
 carry_direct_contracts_intruder
 carry_entry_loc
@@ -1004,7 +1004,6 @@ casualties_column_seperator
 cdo_mag_map
 chaff_failed_obj
 changed_restart_helicopter_name2
-changing_stop_lufwa
 chara_transport_item_drop
 checkpoints_sortie_night_vision_goggles
 chicken_it_delete
@@ -1227,8 +1226,6 @@ comms_equipment_fultoned_SW
 compact_own_Game
 company_walker_gear_uav
 company_wp_prm_tactics
-contact_enemyarea_hamid
-container_explanation_stink
 container_shots_damage_direction
 containers_configure_volunteers
 containers_recovered_trigger_rating
@@ -1256,9 +1253,7 @@ count_birthday_invoice
 count_no_water
 cqc_concsecutive_sec_log
 crack_code_talker_pangolin
-cracks_sheep_4wd
 cyprus_use_knife
-d90_ba_whil
 date_mission_10_10020
 date_mission_30_10010
 date_mission_30_10280
@@ -1396,12 +1391,10 @@ diamond_specialitem_explosives
 direct_contracts_development_context
 disable_damage_direction_dispatch_missions
 disposal_40mm_crack
-disposal_injured_only_while_aiming
 dmg_dir_within_support_gmp
 document_dealer_mission_task_list
 driver_chin_width_mz
 drop_fox_bridge
-dropped_light_truck
 dropped_suppressor_suppressor
 dual
 dual_left_should_sovietBase
@@ -1891,7 +1884,6 @@ emblem_text_381
 emblems_mode_codetalker
 emegency_mission_destroyed_autosave
 emegency_mission_stop_loc
-emergency_ara_pick
 end_APC_AWOL
 ene1_basics_unit
 engaged_tape_archives_ba
@@ -2045,7 +2037,6 @@ FREE_RUN
 FreeExtendFova
 freeHeliRadio
 freeplacement_decoy_throat
-freeplacement_kon_payments
 freeplay
 freeRadio_isPlayed
 friednMarker
@@ -2372,7 +2363,6 @@ func_spprt_weather
 func_spprt_weather_help
 gem_ddog_countdown
 ger_walker_gears_it
-grade_rank_nuclear_abolition
 grass_mb_leave
 gravure_mbhelp_loud
 grenade_launcher_files_codetalker
@@ -2430,7 +2420,6 @@ heat_sniper_coyote
 heavy_sento_eliminate
 herbs_private_wildlife
 herd_emergency_tretij
-hero_ops_deduction
 high_north_ita
 hold
 Honey_Bee_search
@@ -3015,7 +3004,6 @@ info_wp_9010
 info_wp_9011
 info_wp_9012
 info_wp_9013
-injury_from_volume
 installation_near_num
 intel_radio_malak_tail
 Intel+
@@ -3025,7 +3013,6 @@ interrogations_hang_prisoners
 iryo_shago_fob_mission
 ishmael
 ishmaelAppear
-items_cb_weather
 itm_cassette_30150_0000
 itm_cassette_30150_0001
 itm_cassette_30150_0002
@@ -3121,7 +3108,6 @@ legal_background_intruder
 legal_cocktail_d
 legal_requirement_soldiers
 limit_colonel_action_rate
-low_threat_rank
 lucky_colonel_received
 lucky_guard_posts_skulls_armor
 machine_kon_restart_acc
@@ -3396,7 +3382,6 @@ mb_emblem_back_help
 mb_emblem_default_help
 mb_emblem_emblem
 mb_emblem_none
-mb_emblem_prts_emerg
 mb_emblem_title
 mb_emblem_title_help
 mb_emblem_word1
@@ -4818,6 +4803,9 @@ mgo_loadout_name_1
 mgo_loadout_name_2
 mgo_loadout_name_3
 mgo_loadout_name_4
+mgo_loadout_name_5
+mgo_loadout_name_6
+mgo_loadout_name_7
 mgo_log_enemy_team_abandon
 MGO_MAIN_DATA
 mgo_match_option_cpaacity
@@ -5368,10 +5356,13 @@ mgo_unlock_master_ascension
 mgo_unlock_new_character
 mgo_unlock_new_loadout
 mgo_unlock_new_preset
+mgo_weapon_camera
 mgo_weapon_cute_decoy
 mgo_weapon_fulton_trap
+mgo_weapon_shield
 mgo_weapon_tag_grenade
 mgo_weapon_wormhole
+mgo_weaponinfo_camera
 mgo_weaponinfo_cute_decoy
 mgo_weaponinfo_fulton_trap
 mgo_weaponinfo_fulton_wormhole
@@ -8199,7 +8190,6 @@ Poster1003
 Poster1004
 Poster1005
 Poster1006
-posts_stm_direct
 powerPlant_invoice_flare_grenade
 press_button_antiair_brig
 press_button_cb_MMDD_hhmm
@@ -8790,7 +8780,6 @@ prts_sk_6031
 prts_sk_6043
 prts_sk_7010
 prts_sk_7020
-ps4_hurted_brig
 public_the_supported
 putin_knock_stop
 qe_d90_protection
@@ -9105,7 +9094,6 @@ RESULT_SKIP_CAST
 RESULT_SKIP_GMP
 result_spcialitem_etc
 result_special
-result_specialitem_neutralize
 result_staff_hostage
 result_staff_soldier
 result_subtotal
@@ -9171,7 +9159,6 @@ reward_fob_goal_staff
 reward_fob_goal_wormhole
 reward_title
 rg_board_unlucky
-rg_pipe_ba
 RIDE_HORSE
 Ride_WalkerGear
 rideon_heli
@@ -9219,7 +9206,6 @@ room_before_0001
 room_before_0002
 room_before_0003
 room_before_0004
-room_mongoose_magazine
 rough_diamonds_sleep_driver
 RSTICK_X
 RSTICK_Y
@@ -9245,9 +9231,7 @@ sav_varRestoreForContinue
 sco_location_restart
 scorpion_huey_e_combat
 search_radius_anml_q
-select_lz_medicinal_cassette
 select_sort_whil_log
-Seq_Game_WaitCreatingBlendTexture1
 SERCH1
 SERCH2
 SESSION_DISCONNECT_FROM_HOST
@@ -9261,7 +9245,6 @@ Shield+
 shortcut_set_up_sand
 shots_action_icon_outcome
 shoulder_artillery_starring
-shower_hospital_return
 sign_tailing_ap
 Skill_AntiMarking_1
 Skill_AntiMarking_2
@@ -9325,7 +9308,6 @@ Skill_WeaponsPlus_2
 Skill_WeaponsPlus_3
 skullface_suppressor_recovery_progress
 small_keep_viewpoint_master
-snake_stinks_unit_stm
 Sniper+
 sort_method_leave_weapon_emplacements
 SORTIE_BG
@@ -9999,7 +9981,6 @@ SYSTEM_ICON
 SYSTEM_MESSAGE
 systems_quiet_fob4
 tactical_buddies_sunny_dyin
-tactical_locale_answer
 tactical_takedown_name3_abductee
 Tactical+
 tailing_reaching_pangolin
@@ -10736,7 +10717,6 @@ text_WEB_SITE
 text_Yuya_Yano_______Natsumi_Muramatsu
 text_Zero
 the_enemy_ub_turtle
-throw_cyprus_radio
 throw_etc_evasion
 throwing_weapon_payments_master
 time
@@ -11235,7 +11215,6 @@ tips_092
 tips_093
 tips_094
 tips_info_
-tips_item_aerial_command_center
 tips_name_
 tips_screen_res_snake_e
 TipsGuide
@@ -11248,7 +11227,6 @@ TITLE_MENU
 title_nextLocationCode
 title_nextMissionCode
 TITLE_NORMAL_BG
-title_q_ransom
 title_sequence.ClearTitleMode
 title_sequence.MissionPrepare
 TitleMenu
@@ -11913,7 +11891,6 @@ track_grass
 TRACK_HIDE
 track_road
 TrackinEnemy_MSG
-trafficker_keeping_red
 train_iterrogation_during_4wd
 TranferTimer
 Tranq
@@ -11931,7 +11908,6 @@ translation_departed_death_deduction
 translation_mission_power
 Translucent_Tex_LIN
 Translucent_Value
-transmission_volgin_aim
 transportation_decrease_rank
 trap_
 trap_0000_EV2
@@ -12788,7 +12764,6 @@ TYPE_
 type_descending_placement
 type_enemy
 type_kb_medicinal_plant
-ub_phase_to_sneak_buddy
 UCenter_BaseTex
 UCenter_LayerTex
 UCenter_MaskTex
@@ -13328,7 +13303,6 @@ unique_staff_Viscount
 UniqueOcelot+
 UniqueQuiet+
 UniqueSnake+
-unit_infiltrations_type
 unitLvDownBaseDev
 unitLvDownCombat
 unitLvDownIntel
@@ -13387,7 +13361,6 @@ weapon_emplacement_cm_unlucky_dog
 weapon_emplacement_targetArea_anti
 weapon_sortie_engaging
 Weapons+
-weather_aircraft_record_display
 wep_tape_archives_spoils
 wgears_vantage_tan
 wildlife_abductee_infantry
