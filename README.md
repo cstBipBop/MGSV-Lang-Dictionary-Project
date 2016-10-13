@@ -10,5 +10,5 @@ The reasons being that "technically correct" entries can mask the actual LangId 
 pattern finding for future entries. These reasons aside, the "technically correct" entries seem to work fine when used in game with
 TppUiCommand.AnnounceLogViewLangId().
 
-#### 8,717/23,028 (LangId/Entry Keys) in 55 .lng and .lng2 files
-#### 37.9% of hashes resolved
+#### 8,717/19,538 (LangId/Entry Keys) in 55 .lng and .lng2 files
+#### 44.6% of hashes resolved
