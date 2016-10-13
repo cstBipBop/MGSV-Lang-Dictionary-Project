@@ -1,9 +1,5 @@
 
-40mm_mission_exfiltrating
 40mmg_action_rating_alias
-a_stealth_camo_ng
-abductees_hanging_wolf
-abductees_tp_fog
 ability_0000
 ability_0001
 ability_0002
@@ -275,7 +271,6 @@ ability_1109
 ability_1110
 ability_1111
 ability_1112
-abort_gameplay_setting_savannah
 accelarater_mbhelp_telop
 act_Akio_Ohtsuka
 act_Banjo_Ginga
@@ -325,9 +320,6 @@ afgh_waterway
 afr_4wd_master_volume
 african_civet
 afrikaans
-ai_artillery_left
-ai_pod_mic_pinpointed
-air_speed_receive
 alias_name_01
 alias_name_02
 alias_name_03
@@ -355,7 +347,6 @@ alias_name_25
 alias_name_26
 alias_name_27
 alias_name_28
-amnesia_points_earned_speed
 anml_bat_700
 anml_bear_00
 anml_bear_01
@@ -871,18 +862,14 @@ area_sp_walkergear
 arrived_rescue_carrying_as_disguise
 attack_ability_fire_support
 auto_platoon_enemy
-auto_system_death
-avatar_icons_tape_archives
 banana
 banana_S
 bananaEast
 bananaSouth
-base_shower_ishmel
 battle_gear_smoke_containers
 battle_should_AWOL
 be_revenue_S
 before_p21_010370
-big_play_skill_action_icon
 BINO
 bino_angle
 BINO_MARKING
@@ -892,7 +879,6 @@ BINO_ZOOM
 bino_zoom
 BINOCULARS
 BinoZoom_PadMask
-boaster_dmg_direction_medicinal_plant
 bonus_hide
 bonus_Hostage
 bonus_Hostage_0
@@ -912,10 +898,8 @@ BonusPopupClose
 bridge
 bridge_N
 bridge_S
-bridge_speed_kyoten
 bridgeNorth
 bridgeWest
-C4_eye_slant_document
 callbuddy_shotgun_rasp
 camera_speed_codetalker_em_string
 cap_grouping_train
@@ -956,7 +940,6 @@ cast_militants_no.2
 CAST_MODE
 cast_mosquito
 cast_paz
-cast_persuasion_combat_alert
 cast_quiet
 cast_quiet_ene
 cast_rogue_coyote
@@ -987,10 +970,8 @@ cast_white_manba
 cast_XOF
 cast_zerorisk_security
 cast_Zhuk_RS-ZO
-chaff_failed_obj
 chicken_it_delete
 cm_hold
-cmdr_ita_rateru
 cmmn_ammo_air_shock
 cmmn_ammo_grenade
 cmmn_ammo_guided_missile
@@ -1196,7 +1177,6 @@ cmmn_yes
 common_new
 comms_equipment_fultoned_SW
 compact_own_Game
-company_wp_prm_tactics
 containers_recovered_trigger_rating
 context_select_lz_defense_succesful
 continued_ddog_interpret
@@ -1216,14 +1196,10 @@ controls_reload
 controls_shoulder
 controls_stance
 controls_title
-count_birthday_invoice
-crack_code_talker_pangolin
-cyprus_use_knife
 date_mission_10_10020
 date_mission_30_10010
 date_mission_30_10280
 date_mission_30_10280_01
-defence_laboratory_weather
 Demo_AfterDeadSkullFace
 Demo_AfterTankBattle
 Demo_ArrivalInAfghanistan
@@ -1342,8 +1318,6 @@ DemoStage
 DemoStartMoveToPosition
 demoUnlock
 DemoVisitQuiet
-departed_lure_viewpoint
-destroy_kyoten_rival
 dev_item_part_keep_viewpoint
 dev_item_sun_obtain
 dialog_abort_free_placement_ng
@@ -1351,12 +1325,10 @@ dialog_abort_free_placement_ok
 dialog_manual
 dialog_practis_restart
 diamond_specialitem_explosives
-disable_damage_direction_dispatch_missions
 dmg_dir_within_support_gmp
 document_dealer_mission_task_list
 driver_chin_width_mz
 drop_fox_bridge
-dropped_suppressor_suppressor
 dual
 elude_emblem_wp
 emblem_and_south
@@ -1839,12 +1811,9 @@ emblem_text_378
 emblem_text_379
 emblem_text_380
 emblem_text_381
-emblems_mode_codetalker
 emegency_mission_destroyed_autosave
 emegency_mission_stop_loc
 ene1_basics_unit
-engaged_tape_archives_ba
-engaging_mines_nucleus
 entry_sharashka_ocelot_for
 env_aip0_memo
 env_mist_thick
@@ -1852,8 +1821,6 @@ env_mist_weak
 env_para_storm
 env_para_storm_end
 env_wormhole_out
-equipment_fighters_team_lv
-escaped_children_rodent_file
 esp_headshot_a
 esp_headshot_d
 ESP_POINT
@@ -1972,13 +1939,10 @@ expenses_case_string
 exploding_name_shots
 extract_contact_supporter
 failed_animals_reaching
-fh_okapi_fultoned
 fighters_set_up_fob_core
 flash
 floating_boy_suppr_staff_rescued
 flowstation_sp_seperator_tank
-forces_advice_items
-found_rank_searching
 free_misson_asset
 free_misson_asset_bounder
 FREE_RUN
@@ -2310,10 +2274,6 @@ func_spprt_trans_rus_help
 func_spprt_weather
 func_spprt_weather_help
 gem_ddog_countdown
-ger_walker_gears_it
-grass_mb_leave
-grenade_launcher_files_codetalker
-guard_begin_eli
 guides_press_button_current
 gun_mortar_vehicle
 h_func_bttl_defence
@@ -2364,8 +2324,6 @@ herbs_private_wildlife
 high_north_ita
 hold
 Honey_Bee_search
-hose_pashto_acc
-hot_map_AR
 hot_zone_birth_dwalker
 hud_10
 HUD_DECIDE
@@ -2391,11 +2349,8 @@ hud_photo_village
 hud_photo_vip
 hud_quest_finish
 hud_quest_start
-huey_e_practis_mongoose
-import_master_stealth_camo
 import_paz_activated
 import_playdata_mag
-in_the_red_restrain_pinpoint
 info
 info_arm_17001
 info_arm_17010
@@ -2965,7 +2920,6 @@ itm_s10156_C
 itm_wpn_s10040_000
 Jackal
 Japan
-kallai_arm_mansion
 keep_recovering_spoil
 key_bino_zoom
 key_bprint_2000
@@ -3037,15 +2991,10 @@ key_poster_3505
 know_cypr_mission
 know_sunny_members
 ladder_spot_dispsal
-leaderboards_weapons_shago
 legal_cocktail_d
-legal_requirement_soldiers
-limit_colonel_action_rate
 lucky_colonel_received
-lucky_guard_posts_skulls_armor
 mag_effectiveness_name2
 man_abolition_gz_save
-manual_antenna_callbuddy
 mar_locatorMarker
 mar_searchTargeEnable
 mar_searchTargeIsFound
@@ -3281,7 +3230,6 @@ MarkerNum
 Marking
 marking_supplier_mastery
 master_volume_accessory_hs
-mastery_dhorse_radius
 mb_ability_base_dev
 mb_ability_combat
 mb_ability_intel
@@ -4152,7 +4100,6 @@ mbhelp_sortie_6_info
 mbhelp_sortie_6_name
 mbhelp_sortie_7_info
 mbhelp_sortie_7_name
-mbhelp_whil_shower
 MBM_BASE
 MBM_BASE_EXPANTION
 MBM_BASE_SECURITY
@@ -5357,7 +5304,6 @@ MgsJumpSmokeM
 MgsJumpSmokeS
 MgsStomp
 mic_mission_screen
-mine_abductee_parasite
 mining_comm_dhorse
 MISSION_ABORT
 mission_block
@@ -5369,7 +5315,6 @@ MISSION_FINALIZE
 MISSION_FINALIZED
 MISSION_GAME_END
 MISSION_ICON
-mission_list_near_mafr
 mission_local_player_attack
 mission_objective_state
 MISSION_RESTART
@@ -7175,7 +7120,6 @@ name_Zhang_X_J
 name_Zhao_H_J
 name_Zhou_Jiahui
 name_Ziang_Tan
-navigation_hyrax_extracted
 neutralizations_spotting_betrayed
 nuclear_for_all_dd
 NUCLEAR_WEAPON
@@ -7194,7 +7138,6 @@ numFultonedDDCount_OF
 numFultonedSnakeCount_DF
 numFultonedSnakeCount_OF
 numRespawnCount
-nv_scope_fx_missions_mafr
 NW_disguise_effective
 obj_mission_10_10020_00
 obj_mission_10_10033_00
@@ -7238,7 +7181,6 @@ obj_mission_50_10240_00
 obj_mission_50_50050_00
 obj_mission_50_50050_10
 obj_mission_55_10240_00
-obj_sorting_xylotymvou
 obtained_non
 ocelot
 ocelot_aa
@@ -7252,7 +7194,6 @@ OcelotIsPupilOfSnake
 OcelotMirror
 OcelotPosInVisitQuietStart
 official_d
-ok_ammunition_ba
 opt_fg_20105
 opt_fg_30005
 opt_fg_30105
@@ -7392,7 +7333,6 @@ paz_room01
 paz_room02
 paz_room03
 paz_room04
-perfect_sorting_get_down
 perfect_stealth_dual
 PF_A
 PF_B
@@ -7445,7 +7385,6 @@ PF_story_12
 PF_story_13
 PF_story_14
 PF_story_15
-pfcamp_limit_blockade
 photo_cancel
 photo_flowStation
 photo_Intel_com
@@ -8096,7 +8035,6 @@ Poster1004
 Poster1005
 Poster1006
 press_button_cb_MMDD_hhmm
-prisoners_exploding_host_win
 prog_stat_scroll_
 progress_ctr_setin
 progress_ctr_setout
@@ -8683,7 +8621,6 @@ prts_sk_6043
 prts_sk_7010
 prts_sk_7020
 public_the_supported
-putin_knock_stop
 quest_add
 QUEST_ARMOR
 quest_block
@@ -8782,15 +8719,12 @@ quest_q99071
 quest_q99072
 quest_target
 quest_target_eliminate
-quest_waste_stealth_mode
 quietExit
 R3_ZOOM
 RA-TERU
 radio_log_locate_AR
-radio_log_molotov_copyright
 rank_cnt_down_dfp
 rank_cnt_down_ofp
-rank_restriction_idroid_infection
 rank_restriction_stolen_war
 RANKING
 ranklimited
@@ -8901,7 +8835,6 @@ rec_m04
 rec_m05
 rec_m06
 rec_m07
-recommendation_takedown_water
 Recon_1
 Recon_10
 Recon_11
@@ -8942,7 +8875,6 @@ Recon_6
 Recon_7
 Recon_8
 Recon_9
-rescued_functions_assignment_ration
 result_abort_attack
 result_alert
 result_bonus
@@ -8995,7 +8927,6 @@ result_tactical_takedown
 result_total
 result_wormhole_attack
 reticle_target
-revenue_puppy_fultoned
 reward_100
 reward_101
 reward_102
@@ -9116,7 +9047,6 @@ sav_isCheckPointSaving
 sav_isReservedMbSaveResultNotify
 sav_SaveResultCheckFileName
 sav_varRestoreForContinue
-sco_location_restart
 select_sort_whil_log
 SERCH1
 SERCH2
@@ -9124,11 +9054,7 @@ SESSION_DISCONNECT_FROM_HOST
 SHADING_PASS
 SHADOW_DRAW
 shadow_long
-shield_flare_update
 Shield+
-shots_action_icon_outcome
-shoulder_artillery_starring
-sign_tailing_ap
 Skill_AntiMarking_1
 Skill_AntiMarking_2
 Skill_AntiMarking_3
@@ -9189,10 +9115,7 @@ Skill_Tank_3
 Skill_WeaponsPlus_1
 Skill_WeaponsPlus_2
 Skill_WeaponsPlus_3
-skullface_suppressor_recovery_progress
-small_keep_viewpoint_master
 Sniper+
-sort_method_leave_weapon_emplacements
 SORTIE_BG
 SORTIE_BG_LOW
 SORTIE_DETAIL
@@ -9205,8 +9128,6 @@ SovietWalkerGear1
 SovietWalkerGear2
 SovietWalkerGear3
 special_missions_search
-specialitem_bgm_sco
-spotted_fg_defender
 staff_Akihiro_Honda
 staff_Akihiro_Teruta
 staff_Akio_Sakamoto
@@ -9457,7 +9378,6 @@ staff_yuji_korekado
 staff_Yusuke_Nishida
 staff_yusuke_tanaka
 staff_ziang_tan
-storage_hat_xbox
 sub_1
 sub_2
 sub_3
@@ -9552,8 +9472,6 @@ subTask_ACP01
 subTask_ACP02
 subTask_ACP03
 subtitle_detected_tt
-sunset_hidden_image
-surviving_special_missions_elite
 system_1000_ps3
 system_1000_ps4
 system_1000_stm
@@ -9849,11 +9767,8 @@ system_9906_all
 system_9907_all
 SYSTEM_ICON
 SYSTEM_MESSAGE
-tactical_buddies_sunny_dyin
 tactical_takedown_name3_abductee
 Tactical+
-tailing_reaching_pangolin
-takedown_directional_N
 Tank+
 tape_tp_bgm_10
 tape_tp_bgm_11
@@ -10583,11 +10498,9 @@ text_Voice_Over
 text_WEB_SITE
 text_Yuya_Yano_______Natsumi_Muramatsu
 text_Zero
-throw_etc_evasion
 time
 TIME_CIGARETTE
 TIME_CIGARETTE_BG
-time_limit_bttl_defence2
 TIME_LIMIT_RANK_A
 TIME_LIMIT_RANK_B
 TIME_LIMIT_RANK_C
@@ -10597,7 +10510,6 @@ TIME_LIMIT_RANK_F
 TIME_LIMIT_RANK_NONE
 TIME_LIMIT_RANK_S
 time_limit_ua
-time_paradox_float_changed
 time_quest
 time:
 timeCount_10054_00
@@ -10608,8 +10520,6 @@ timeCount_50050_10
 timeCount_50050_11
 timeCount_50050_20
 timeCount_50050_50
-timecount_betray_processed_res
-timecount_markings_playing
 timeEndCount01
 timeEndCount02
 timeEndCount03
@@ -11093,7 +11003,6 @@ title_sequence.ClearTitleMode
 title_sequence.MissionPrepare
 TitleMenu
 TitleMenuReady
-tool_tl_penetration
 tp_20010_01_01
 tp_20010_01_02
 tp_20010_01_03
@@ -11745,12 +11654,9 @@ tpp_loc_cyprus
 tpp_loc_mb
 tpp_rank
 TPP_START_UP
-traces_mbstaff_x36
-track_grass
 TRACK_HIDE
 track_road
 TrackinEnemy_MSG
-train_iterrogation_during_4wd
 TranferTimer
 Tranq
 TranqEngineer
@@ -11765,7 +11671,6 @@ TranslateRussian
 translation
 Translucent_Tex_LIN
 Translucent_Value
-transportation_decrease_rank
 trap_
 trap_0000_EV2
 trap_0001
@@ -12615,7 +12520,6 @@ twoWeekLater_Truth
 twpf
 TYPE_
 type_enemy
-type_kb_medicinal_plant
 UCenter_BaseTex
 UCenter_LayerTex
 UCenter_MaskTex
@@ -13135,8 +13039,6 @@ ui_face_684
 ui_face_685
 ui_face_686
 ui_face_687
-underbarrel_cstm_supporter
-unique_hero_pf
 unique_staff_eye
 unique_staff_f_dd
 unique_staff_f_fh
@@ -13202,7 +13104,6 @@ walkergear_zrs_3
 Weapons+
 word
 word1
-word1_fob1_film_canister
 word10
 word100
 word101
@@ -13477,4 +13378,3 @@ word97
 word98
 word99
 wordNone
-zero_exit_result_activate
