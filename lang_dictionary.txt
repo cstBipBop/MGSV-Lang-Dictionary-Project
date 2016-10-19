@@ -708,6 +708,8 @@ bino_mic
 bino_zoom
 bonus_hide
 bonus_perfect_stealth
+bullet_box
+bullet_full
 cast_american_technician
 cast_Armored_Column_Commander
 cast_arms_dealer
@@ -772,6 +774,7 @@ cast_white_manba
 cast_XOF
 cast_zerorisk_security
 cast_Zhuk_RS-ZO
+checkpoint_save
 cmmn_ammo_air_shock
 cmmn_ammo_grenade
 cmmn_ammo_guided_missile
@@ -1003,6 +1006,7 @@ controls_type_chara
 controls_type_horse
 controls_type_vehicle
 controls_type_wg
+controls_v_accelerator
 controls_v_attack
 controls_v_brake
 controls_v_call
@@ -1502,6 +1506,7 @@ emblem_text_380
 emblem_text_381
 etc_and
 flowstation_sp_seperator_tank
+fob_test
 Fulton+
 func_bttl_defence
 func_bttl_defence_help
@@ -1553,6 +1558,7 @@ func_med_emergency
 func_med_emergency_help
 func_med_treatment
 func_med_treatment_help
+func_rank
 func_sec_base_blockade
 func_sec_base_blockade_help
 func_sec_base_defence
@@ -1574,6 +1580,7 @@ func_spprt_smoke
 func_spprt_smoke_help
 func_spprt_supply
 func_spprt_supply_help
+func_spprt_supply2_help
 func_spprt_trans_afr
 func_spprt_trans_afr_help
 func_spprt_trans_kon
@@ -2258,11 +2265,15 @@ key_poster_3503
 key_poster_3504
 key_poster_3505
 key_wep_decision
+key_wep_item
+key_wep_primary
 key_wep_secondary
 key_wep_select
 key_wep_support
 key_zoom_in
 key_zoom_out
+loading_end
+loading_next
 marker_aa_radar
 marker_ammo_artillery
 marker_ammo_pri
@@ -5418,6 +5429,8 @@ option_title
 option_type_action
 option_vibration
 option_wp_quick
+parasite_curing
+parasite_fog
 pause_abort_mission
 pause_info_abort_mission
 pause_info_photo
@@ -5433,6 +5446,7 @@ pause_online
 pause_online_info
 pause_options
 pause_photo
+pause_ranking
 pause_record
 pause_records
 pause_restart
@@ -5440,10 +5454,12 @@ pause_restart_heli
 pause_restart_info
 pause_settings
 pause_sign_out
+pause_store
 pause_tips
 pause_title
 pause_trial_record
 photo_cancel
+photo_capture
 platform_1st
 platform_2nd
 platform_3rd
@@ -6610,6 +6626,11 @@ real_wp_9010
 real_wp_9011
 real_wp_9012
 real_wp_9013
+resource_bio
+resource_c_metal
+resource_fuel
+resource_m_metal
+resource_p_metal
 result_abort_attack
 result_alert
 result_bonus
@@ -6723,7 +6744,9 @@ reward_fob_goal_herbs
 reward_fob_goal_resources
 reward_fob_goal_staff
 reward_fob_goal_wormhole
+reward_got
 reward_title
+server_resource
 Shield+
 Skill_AntiMarking_1
 Skill_AntiMarking_2
@@ -6818,6 +6841,7 @@ staff_kazuki_sakai
 staff_Kazuki_Yanashima
 staff_Keiichi_Matate
 staff_kenichiro_imaizumi
+staff_kjp
 staff_Kotaro_Oki
 staff_Kunio_Takabe
 staff_Ludvig_Forssell
@@ -7871,6 +7895,9 @@ timeCount_50050_10
 timeCount_50050_11
 timeCount_50050_20
 timeCount_50050_50
+title_continue
+title_mgo
+title_options
 tp_bgm_10_01
 tp_bgm_10_02
 tp_bgm_10_03
@@ -8276,6 +8303,8 @@ tpp_africa_swampWest
 tpp_africa_swampWest_no
 tpp_cyprus_ormideia
 tpp_cyprus_xylotymvou
+tpp_epigraph_cioran
+tpp_epigraph_cioran_quote
 tpp_epigraph_mgs1_01
 tpp_epigraph_mgs1_02
 tpp_epigraph_mgs1_03
@@ -8424,6 +8453,7 @@ vehicle_truck_e
 vehicle_truck_e_info
 vehicle_truck_w
 vehicle_truck_w_info
+volunteer_add
 walkergear_cfa_1
 walkergear_cfa_2
 walkergear_cfa_3
