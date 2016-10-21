@@ -800,6 +800,7 @@ cmmn_buddy_closeness
 cmmn_buddy_command
 cmmn_buddy_equip
 cmmn_cancel
+cmmn_dd_prts_head
 cmmn_dev_bgear
 cmmn_dev_dd_eqp
 cmmn_dev_dh_eqp
@@ -808,6 +809,12 @@ cmmn_dev_heli
 cmmn_dev_mb_eqp
 cmmn_dev_nuclear
 cmmn_dev_q_eqp
+cmmn_dh_prts_head
+cmmn_dw_prts_head
+cmmn_dw_prts_main
+cmmn_dw_prts_main_wp
+cmmn_dw_prts_mani
+cmmn_dw_prts_sub_wp
 cmmn_empty
 cmmn_ene_cfa
 cmmn_ene_coyote
@@ -820,8 +827,13 @@ cmmn_etc_b
 cmmn_etc_gb
 cmmn_etc_kb
 cmmn_etc_mb
+cmmn_etc_tilde
 cmmn_gmp_dec
 cmmn_gmp_inc
+cmmn_hl_prts_armor
+cmmn_hl_prts_flare
+cmmn_hl_prts_main
+cmmn_hl_prts_main_wp
 cmmn_item
 cmmn_items
 cmmn_items_e
@@ -879,6 +891,18 @@ cmmn_lang_xho
 cmmn_lang_zho
 cmmn_lang_zul
 cmmn_MMDD_hhmm
+cmmn_month_1
+cmmn_month_10
+cmmn_month_11
+cmmn_month_12
+cmmn_month_2
+cmmn_month_3
+cmmn_month_4
+cmmn_month_5
+cmmn_month_6
+cmmn_month_7
+cmmn_month_8
+cmmn_month_9
 cmmn_name_antiair
 cmmn_name_container
 cmmn_name_gunsheet
@@ -892,6 +916,8 @@ cmmn_ok
 cmmn_on
 cmmn_on_en
 cmmn_parts_list
+cmmn_pri_b_wp
+cmmn_pri_h_wp
 cmmn_rarity_c
 cmmn_rarity_common
 cmmn_rarity_r
@@ -921,6 +947,7 @@ cmmn_vehicle_num
 cmmn_vehicle_tank
 cmmn_vehicle_truck
 cmmn_virtual_world
+cmmn_w_gear_num
 cmmn_wp_ammo
 cmmn_wp_ammo_type
 cmmn_wp_assault_rifle
@@ -946,6 +973,7 @@ cmmn_wp_prm_grouping
 cmmn_wp_prm_penetration
 cmmn_wp_prm_range
 cmmn_wp_prm_shock
+cmmn_wp_prm_target_spd
 cmmn_wp_prts_attachment
 cmmn_wp_prts_barrel
 cmmn_wp_prts_base
@@ -1541,6 +1569,7 @@ func_fob_nuclear_help
 func_fob_processing
 func_fob_processing_help
 func_heli_attack
+func_intel_fob_sec
 func_intel_fob_sec_help
 func_intel_info
 func_intel_info_help
@@ -5435,6 +5464,7 @@ pause_abort_mission
 pause_info_abort_mission
 pause_info_photo
 pause_info_point_none
+pause_info_ranking
 pause_info_record
 pause_info_records
 pause_info_restart
